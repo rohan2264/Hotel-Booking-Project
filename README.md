@@ -3,10 +3,10 @@
 where the entire process of analyzing a dataset to solve a business problem. 
 
 ## The following steps are cover in this project.
-Understanding the business problem.
-Exploratory Data Analysis (EDA) and data cleaning.
-Analyzing the data to get useful insights.
-Presenting the findings and solutions to the problem using a Report.
+i. Understanding the business problem.
+ii. Exploratory Data Analysis (EDA) and data cleaning.
+iii. Analyzing the data to get useful insights.
+iv. Presenting the findings and solutions to the problem using a Report.
 
 ## Research Questions
 1. What are the variables that affect hotel reservations cancellation?
